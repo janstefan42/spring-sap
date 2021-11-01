@@ -1,0 +1,39 @@
+{
+  "properties": [
+    {
+      "name": "jco.client.ashost",
+      "type": "java.lang.String",
+      "description": "Der SAP Host."
+    },
+    {
+      "name": "jco.client.sysnr",
+      "type": "java.lang.String",
+      "description": "Die SAP Systemnummer."
+    },
+    {
+      "name": "kjco.client.client",
+      "type": "java.lang.String",
+      "description": "Der SAP Client."
+    },
+    {
+      "name": "jco.client.user",
+      "type": "java.lang.String",
+      "description": "Der Benutzer zum Zugriff auf SAP."
+    },
+    {
+      "name": "jco.client.passwd",
+      "type": "java.lang.String",
+      "description": "Das Passwort zum Zugriff auf SAP."
+    },
+    {
+      "name": "jco.client.lang",
+      "type": "java.lang.String",
+      "description": "Die Sprache der SAP Schnittstelle."
+    },
+    {
+      "name": "jco.client.client",
+      "type": "java.lang.String",
+      "description": "Die CLientNummer der SAP Schnittstelle."
+    }
+  ]
+}

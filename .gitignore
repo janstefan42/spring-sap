@@ -1,0 +1,8 @@
+/*.iml
+.idea
+/*.log
+/libs/libsapjco3.dylib
+/libs/libsapjco3.so
+/libs/sapjco3.dll
+/libs/sapjco3.jar
+/libs/sapjco3.pdb

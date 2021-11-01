@@ -1,0 +1,9 @@
+version: '3.5'
+
+services:
+  spring-sap:
+    image: docker-repo.stefan.is-gone.com/instanceof42/spring-sap:1.0.0-SNAPSHOT
+    container_name: spring-sap
+    restart: always
+    ports:
+      - "8080:8080"

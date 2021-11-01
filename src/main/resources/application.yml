@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: spring-sap
+  main:
+    allow-bean-definition-overriding: true
+
+jco:
+  client:
+    ashost: [SAP-HOST]
+    sysnr: 00
+    client: 100
+    user: [SAP-BENUTZER]
+    passwd: [SAP-PASSWORT]
+    lang: de
+
